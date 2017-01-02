@@ -1,7 +1,7 @@
 # .Net Core middleware list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 >Big list of awesome .net core middleware and actionfilter to extend your application functionality :boom:
 
-* [Turbolinks.net](https://github.com/TerribleDev/TurboLinks.Net) Adds the ability to use turbolinks with .net core apps
+* [Turbolinks.net](https://github.com/TerribleDev/TurboLinks.Net) Adds the ability to use [turbolinks](https://github.com/turbolinks/turbolinks) with .net core apps
 * [Microsoft.AspNetCore.Rewrite](https://github.com/aspnet/BasicMiddleware/tree/dev/src) - rewrite urls for requests
 * [Microsoft.AspNetCore.ResponseCompression](https://github.com/aspnet/BasicMiddleware/tree/dev/src) - Compress your return values.
 * [HardHat](https://github.com/TerribleDev/HardHat) - Secure your .net core apps via http headers
