@@ -1,4 +1,4 @@
-# list-of-dotnet-core-middleware [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# .net core-middleware list [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 >Big list of awesome .net core middleware to extend your applications....
 
 * [Turbolinks.net](https://github.com/TerribleDev/TurboLinks.Net) Adds the ability to use turbolinks with .net core apps
